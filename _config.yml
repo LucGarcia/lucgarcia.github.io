@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: elsimioenelespejo
 # Build settings
 theme: minima
+google_analytics: UA-162086880-1
 plugins:
   - jekyll-feed
 
