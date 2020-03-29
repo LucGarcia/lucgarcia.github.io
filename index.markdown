@@ -4,6 +4,7 @@
 
 layout: home
 ---
+
 ### ¿Dónde estoy?
 **El simio en el espejo** es un blog dedicado a compartir herramientas, hábitos, estrategias y principios que nos ayudan a vivir una vida buena.
 
@@ -23,6 +24,7 @@ En mi experiencia, hay cosas que ayudan, como por ejemplo:
 * Aprender a desaprender. Saber que no sabes nada.
 
 Aquí encontrarás los conocimientos y tácticas que más me han ayudado, destilados y sin edulcorar, además de ideas para poderlos aplicar a tu vida. Es como mi cajita de los tesoros, donde hay un poquito de todo: filosofía práctica, ciencia, psicología, antropología, y un poco (no mucho) de sentido común.
+
 
 Si quieres saber más sobre mí o sobre el proyecto, [pincha aquí](/about).
 
