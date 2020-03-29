@@ -20,9 +20,9 @@ Hay tantas definiciones como personas. Ésta es la mía. Una vida buena es una v
 
 ## ¿Eso se puede hacer?¿Cómo?
 En mi experiencia, hay cosas que ayudan, como por ejemplo:
-* Aprender a separar lo esencial de lo importante (y centrarte en lo primero). Buscar la sabiduría más allá del conocimiento.
-* Aprender a vivir de acuerdo a tu naturaleza y tus necesidades. Conocerte a tí mismo/a.
-* Aprender a desaprender. Saber que no sabes nada.
+* Aprender a separar lo esencial de lo importante (y centrarte en lo primero).
+* Aprender a vivir de acuerdo a tu naturaleza y tus necesidades.
+* Aprender a desaprender.
 
 Aquí encontrarás los conocimientos y tácticas que más me han ayudado, destilados y sin edulcorar, además de ideas para poderlos aplicar a tu vida. Es como mi cajita de los tesoros, donde hay un poquito de todo: filosofía práctica, ciencia, psicología, antropología, y un poco (no mucho) de sentido común.
 
