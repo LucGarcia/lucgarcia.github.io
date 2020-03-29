@@ -21,7 +21,7 @@ author: Luc Garcia
 title: El simio en el espejo
 email: elsimioenelespejo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Herramientas y estrategias para vivir una vida buena, y pasarlo bien en el intento
+  Herramientas, hábitos, estrategias y principios para vivir una vida buena, y pasarlo bien en el intento
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: elsimioenelespejo
