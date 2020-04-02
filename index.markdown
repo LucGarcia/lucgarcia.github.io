@@ -3,15 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: ¡Bienvenido/a!
+title: El simio en el espejo
 ---
 
 ## ¿Dónde estoy?
-**El simio en el espejo** es un blog dedicado a compartir herramientas, hábitos, estrategias y principios que nos ayudan a vivir una vida buena.
+Este es un blog sobre naturaleza humana. En él encontrarás  herramientas, hábitos, estrategias y principios para vivir una vida buena.
 
 
 ## ¿Qué es una vida buena?
-Hay tantas definiciones como personas. Ésta es la mía. Una vida buena es una vida:
+Hay tantas definiciones como personas. Ésta es la mía.
+Una vida buena es una vida:
 * **Libre de sufrimiento**. Ya tienes que lidiar con el dolor, los problemas, los conflictos, la gente insoportable y las situaciones inesperadas. El sufrimiento y el drama, sobran.
 * **Descomplicada**. Cuantas más partes tiene algo y más complejo es, más cuesta de mantener y más fácil es que se rompa. Menos es más.
 * **Honesta y coherente**. Cuando lo que necesitas, sientes y haces va en una misma línea, las energías se suman y empieza la magia.
