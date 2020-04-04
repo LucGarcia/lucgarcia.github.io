@@ -7,7 +7,7 @@ title: El simio en el espejo
 ---
 
 ## ¿Dónde estoy?
-Este es un blog sobre naturaleza humana. En él encontrarás  herramientas, hábitos, estrategias y principios para vivir una vida buena.
+Este es un blog sobre naturaleza humana y filosofía práctica. En él encontrarás  herramientas, hábitos, estrategias y principios para vivir una vida buena.
 
 
 ## ¿Qué es una vida buena?
