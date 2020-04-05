@@ -28,6 +28,6 @@ En mi experiencia, hay cosas que ayudan, como por ejemplo:
 Aquí encontrarás los conocimientos y tácticas que más me han ayudado, destilados y sin edulcorar, además de ideas para poderlos aplicar a tu vida. Es como mi cajita de los tesoros, donde hay un poquito de todo: filosofía práctica, ciencia, psicología, antropología, y un poco (no mucho) de sentido común.
 
 
-Si quieres saber más sobre mí o sobre el proyecto, [pincha aquí](/about).
+Si quieres saber más sobre mí o sobre el proyecto, [pincha aquí](/Descubre).
 
 Si te ha picado la curiosidad, o no tienes nada mejor que hacer... ¡sigue leyendo!
