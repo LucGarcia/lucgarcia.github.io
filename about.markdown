@@ -3,7 +3,7 @@ layout: page
 title: Descubre
 permalink: /descubre/
 ---
-## Sobre El simio en el espejo
+## Sobre el simio en el espejo
 
 ### Aprender a vivir. Humanos, tecnología y ansiedad existencial
 
@@ -43,7 +43,7 @@ Preguntar sobre quiénes somos es como perseguir la sombra de un fantasma. El eg
 Nada de eso ayuda. Tras buscar respuestas, hemos acabado aún más confusos y jodidos de lo que empezamos. Esa es, generalmente, una señal clara de que hay que cambiar de pregunta.
 
 
-### El simio en el espejo. La verdad que nos hace libres.
+### El simio en el espejo. Qué somos y qué necesitamos.
 
 Quiénes somos es sólo una forma de tapar qué somos.
 
@@ -59,14 +59,14 @@ Aceptar que somos monos nos fuerza a destruir el ego. Es aceptar que no somos ú
 
 Y sin embargo, cuando hacemos ese paso, las cosas se vuelven más fáciles. Cuando vemos el simio en el espejo, lo que necesitamos se muestra con mayor claridad.
 
-Qué necesita un simio? Comida. Refugio. Salud. La aceptación y respeto de su manada. Cosas sencillas, relativamente fáciles de conseguir en nuestro mundo.
+Qué necesita un simio? Comida. Refugio. Salud. Una manada que lo acepte y lo respete. Cosas sencillas, relativamente fáciles de conseguir en nuestro mundo.
 
-Esas son las necesidades que compartimos todos, la base sobre la que construir y crear. Nuestra naturaleza nos dicta nuestras necesidades esenciales, las que todos compartimos. Y todos compartimos una misma naturaleza. Da igual de qué país somos, o cuál es nuestro equipo de fútbol. Todos sonreímos igual.
+Esas son las necesidades que compartimos todos, la base sobre la que construir y crear. Nuestra naturaleza nos dicta nuestras necesidades esenciales. Y todos compartimos una misma naturaleza. Da igual de qué país somos, o cuál es nuestro equipo de fútbol. Todos sonreímos igual.
 
 Entender nuestra naturaleza como simios significa entender nuestras necesidades, y satisfacer esas necesidades nos aporta calidad de vida.
 
-Mi intención al escribir este blog no es cambiar el mundo. No tengo ese tipo de hobbies. Es simplemente poner esta idea ahí fuera.
+Mi intención al escribir este blog no es cambiar el mundo. No tengo ese tipo de aficiones. Es simplemente poner esta idea ahí fuera.
 
-Porque esa idea ha creado más posibilidades en mi vida que cualquier otra. Me ha ayudado a entender qué es realmente importante. Me ha ayudado a comprender mis comportamientos, mis relaciones, mis motivaciones y mis creencias. Me ha ayudado a vivir una vida buena.
+Porque esa idea ha creado más posibilidades en mi vida que cualquier otra. Me ha ayudado a entender qué es realmente importante. Me ha ayudado a comprender mis comportamientos, mis relaciones, mis motivaciones y mis creencias. Me ha ayudado a crear una vida buena.
 
 Una vida digna de un mono.
