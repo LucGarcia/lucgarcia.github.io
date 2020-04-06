@@ -42,6 +42,9 @@ Preguntar sobre quiénes somos es como perseguir la sombra de un fantasma. El eg
 
 Nada de eso ayuda. Tras buscar respuestas, hemos acabado aún más confusos y jodidos de lo que empezamos. Esa es, generalmente, una señal clara de que hay que cambiar de pregunta.
 
+
+### El simio en el espejo. La verdad que nos hace libres.
+
 Quiénes somos es sólo una forma de tapar qué somos.
 
 Y lo que somos es mucho más sencillo. Los expertos en clasificar el mundo lo llevan diciendo desde hace años. Somos animales. Somos mamíferos. Y somos simios. Primates, o como queramos decirlo. Eso es lo que somos.
@@ -51,9 +54,6 @@ Somos monos.
 Por supuesto, preferimos pensar que somos hijos de dioses, seres de luz, o que en algún momento nos despertaremos siendo capaces de lanzar rayos láser por los ojos o sentir la Fuerza. Todas esas cosas suenan mucho mejor que pensar que somos monos.
 
 Y es por eso que seguimos creando civilizaciones que no tienen en cuenta nuestras necesidades fundamentales.
-
-
-### El simio en el espejo. La verdad que nos hace libres.
 
 Aceptar que somos monos nos fuerza a destruir el ego. Es aceptar que no somos únicos e irrepetibles, que no estamos en la cima de la pirámide y que no somos el ombligo del universo. Es asumir que todo lo que creemos saber sobre nosotros es un cuento de hadas. Por eso es tan duro.
 
