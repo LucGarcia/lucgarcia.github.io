@@ -65,8 +65,23 @@ Esas son las necesidades que compartimos todos, la base sobre la que construir y
 
 Entender nuestra naturaleza como simios significa entender nuestras necesidades, y satisfacer esas necesidades nos aporta calidad de vida.
 
-Mi intención al escribir este blog no es cambiar el mundo. No tengo ese tipo de aficiones. Es simplemente poner esta idea ahí fuera.
+Mi intención al escribir este blog no es cambiar el mundo. No tengo ese tipo de aficiones. Es simplemente compartir esta idea.
 
-Porque esa idea ha creado más posibilidades en mi vida que cualquier otra. Me ha ayudado a entender qué es realmente importante. Me ha ayudado a comprender mis comportamientos, mis relaciones, mis motivaciones y mis creencias. Me ha ayudado a crear una vida buena.
+Porque esta idea ha creado más posibilidades en mi vida que cualquier otra. Me ha ayudado a entender qué es realmente importante. Me ha ayudado a comprender mis comportamientos, mis relaciones, mis motivaciones y mis creencias. Me ha ayudado a crear una vida buena.
 
 Una vida digna de un mono.
+
+
+
+## Sobre el autor
+
+Mi trabajo es aliviar el sufrimiento y mejorar la calidad de vida de las personas, a través de:
+
+* Talleres y charlas sobre inteligencia emocional y social, filosofía práctica y diseño de vida.
+
+* Sesiones individuales donde ayudo a resolver problemas personales, gestionar conflictos, afrontar miedos, cambiar hábitos, mejorar relaciones, eliminar pensamientos/creencias negativos, etc.
+
+* Artículos en el ámbito del crecimiento personal.
+
+
+Si quieres trabajar conmigo, puedes escribirme a <luc.garcia.coaching@gmail.com>.
