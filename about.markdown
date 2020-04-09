@@ -75,13 +75,15 @@ Una vida digna de un mono.
 
 ## Sobre el autor
 
+Soy un filósofo práctico y consejero filosófico.
+
 Mi trabajo es aliviar el sufrimiento y mejorar la calidad de vida de las personas, a través de:
 
 * Talleres y charlas sobre inteligencia emocional y social, filosofía práctica y diseño de vida.
 
 * Sesiones individuales donde ayudo a resolver problemas personales, gestionar conflictos, afrontar miedos, cambiar hábitos, mejorar relaciones, eliminar pensamientos/creencias negativos, etc.
 
-* Artículos en el ámbito del crecimiento personal.
+* Artículos en el ámbito del crecimiento personal y la filosofía aplicada.
 
 
 Si quieres trabajar conmigo, puedes escribirme a <luc.garcia.coaching@gmail.com>.
