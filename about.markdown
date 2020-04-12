@@ -43,7 +43,7 @@ Preguntar sobre quiénes somos es como perseguir la sombra de un fantasma. El eg
 Nada de eso ayuda. Tras buscar respuestas, hemos acabado aún más confusos y jodidos de lo que empezamos. Esa es, generalmente, una señal clara de que hay que cambiar de pregunta.
 
 
-### El simio en el espejo. Qué somos y qué necesitamos.
+### El simio en el espejo. Qué somos y qué necesitamos
 
 Quiénes somos es sólo una forma de tapar qué somos.
 
@@ -59,7 +59,7 @@ Aceptar que somos monos nos fuerza a destruir el ego. Es aceptar que no somos ú
 
 Y sin embargo, cuando hacemos ese paso, las cosas se vuelven más fáciles. Cuando vemos el simio en el espejo, lo que necesitamos se muestra con mayor claridad.
 
-Qué necesita un simio? Comida. Refugio. Salud. Una manada que lo acepte y lo respete. Cosas sencillas, relativamente fáciles de conseguir en nuestro mundo.
+¿Qué necesita un simio? Comida. Refugio. Salud. Una manada que lo acepte y lo respete. Cosas sencillas, relativamente fáciles de conseguir en nuestro mundo.
 
 Esas son las necesidades que compartimos todos, la base sobre la que construir y crear. Nuestra naturaleza nos dicta nuestras necesidades esenciales. Y todos compartimos una misma naturaleza. Da igual de qué país somos, o cuál es nuestro equipo de fútbol. Todos sonreímos igual.
 
@@ -70,7 +70,6 @@ Mi intención al escribir este blog no es cambiar el mundo. No tengo ese tipo de
 Porque esta idea ha creado más posibilidades en mi vida que cualquier otra. Me ha ayudado a entender qué es realmente importante. Me ha ayudado a comprender mis comportamientos, mis relaciones, mis motivaciones y mis creencias. Me ha ayudado a crear una vida buena.
 
 Una vida digna de un mono.
-
 
 
 ## Sobre el autor
@@ -84,6 +83,5 @@ Mi trabajo es aliviar el sufrimiento y mejorar la calidad de vida de las persona
 * Sesiones individuales donde ayudo a resolver problemas personales, gestionar conflictos, afrontar miedos, cambiar hábitos, mejorar relaciones, eliminar pensamientos/creencias negativos, etc.
 
 * Artículos en el ámbito del crecimiento personal y la filosofía aplicada.
-
 
 Si quieres trabajar conmigo, puedes escribirme a <luc.garcia.coaching@gmail.com>.
