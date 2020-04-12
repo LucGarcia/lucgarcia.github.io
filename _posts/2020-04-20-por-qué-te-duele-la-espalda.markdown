@@ -60,7 +60,7 @@ No caer en la trampa de la imitación requiere fortaleza de carácter, tanto par
 
 En última instancia, el liderazgo es la forma más elevada de valía social. Si otros están dispuestos a seguir tus iniciativas, o confían en tí en sus momentos de duda y vulnerabilidad, puedes permitirte el lujo de andar descalzo. La verdadera influencia no se compra, se entrega. Es un regalo de los demás.
 
-Irónicamente, renunciar a los símbolos de poder es una demostración de poder en sí misma. Ser un líder es mucho más efectivo que parecerlo.
+Irónicamente, el acto de renunciar a los símbolos de poder es una demostración de poder en sí mismo. Ser un líder es mucho más efectivo que parecerlo.
 
 Piensa en qué partes de tu carácter y de tu personalidad tienen valor para los demás. Úsalas. Piensa en qué partes te restan valor. Cámbialas. Invierte tu trabajo y tu esfuerzo en tí, no en objetos.
 
