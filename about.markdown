@@ -31,6 +31,8 @@ Aquí encontrarás los conocimientos y tácticas que más me han ayudado, destil
 
 Soy un filósofo práctico y consejero filosófico.
 
+Mi pasión es la búsqueda de la sabiduría.
+
 Mi trabajo es aliviar el sufrimiento y mejorar la calidad de vida de las personas, a través de:
 
 * Talleres y charlas sobre inteligencia emocional y social, filosofía práctica y diseño de vida.
