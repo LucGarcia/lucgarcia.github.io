@@ -6,4 +6,4 @@ layout: home
 title: El simio en el espejo
 ---
 
-Cada día, mientras me lavo la cara, un simio me devuelve la mirada desde el otro lado del espejo. Estas son las historias que le cuento y las cosas que le pienso para que sea un poquito más feliz.
+Cada día, mientras me lavo la cara, un simio me devuelve la mirada desde el otro lado del espejo. Es una criatura curiosa que siempre se está haciendo preguntas. Estas son las historias que le cuento y las cosas que le pienso para que sea un poquito más feliz.
