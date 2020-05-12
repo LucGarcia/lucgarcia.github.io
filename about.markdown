@@ -37,7 +37,7 @@ Mi trabajo es aliviar el sufrimiento y mejorar la calidad de vida de las persona
 
 * Talleres y charlas sobre inteligencia emocional y social, filosofía práctica y diseño de vida.
 
-* Sesiones individuales donde ayudo a resolver problemas personales, gestionar conflictos, afrontar miedos, cambiar hábitos, mejorar relaciones, eliminar pensamientos/creencias negativos, etc.
+* Sesiones individuales donde ayudo a resolver problemas personales, gestionar conflictos, afrontar miedos, cambiar hábitos, mejorar relaciones, eliminar pensamientos negativos y creencias limitantes, etc.
 
 * Artículos en el ámbito del crecimiento personal y la filosofía aplicada.
 
