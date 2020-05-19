@@ -3,7 +3,7 @@ layout: post
 title: La clase y el patio. ¿Sirve de algo ir a la escuela?
 ---
 >Siempre me dijeron que tenía que estudiar. Para formarme como persona, para tener un buen trabajo, para entender el mundo. Ahora, como adulto, me pregunto a menudo si utilicé algo de lo que aprendí en la escuela.
-
+>
 >Si la mayoría de las cosas importantes las aprendí fuera, ¿Tiene algún sentido la educación? ¿Sirve de algo ir a la escuela?
 
 Este, querido simio, es un problema de perspectiva.
