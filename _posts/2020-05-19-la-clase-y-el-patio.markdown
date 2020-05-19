@@ -38,4 +38,4 @@ No hace falta que te portes bien, ni que hagas la tarea para que te pongan buena
 
 El mundo es un espacio de libertad y de responsabilidad. Es lo que tú decides que sea, y lo que construyes con los demás.
 
-¿Mereció la pena ir a la escuela? ¡Claro que sí! Es donde aprendiste todo lo que necesitas para vivir.
+¿Mereció la pena ir a la escuela? ¡Claro que sí! Es donde aprendiste a jugar.
