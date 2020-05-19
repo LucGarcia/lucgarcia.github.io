@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La paradoja del arquero. Cómo conseguir tus objetivos y disfrutar de ello
+title: La paradoja del arquero. Cómo alcanzar tus objetivos y disfrutar de ello
 ---
 
 >Sé que es bueno ponerme objetivos, que le dan estructura, dirección y significado a mi vida. Pero cada vez que lo hago, me siento presionado, angustiado y frustrado. No sé si voy a ser capaz de conseguirlo, o si lo voy a poder hacer bien.
