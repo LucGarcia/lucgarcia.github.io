@@ -14,7 +14,7 @@ El maestro le respondió: *"cuando como, como; cuando duermo, duermo"*.
 
 El discípulo, extrañado, le preguntó de nuevo: *"pero maestro, ¿no es eso lo que hacemos todos?"*
 
-A lo que el maestro contestó: *"Al contrario. La mayoría de personas, mientras comen, están pensando en otras cosas, y mientras duermen, están soñando en otras cosas. Yo, cuando como, como; cuando duermo, duermo. Así me adiestro en la verdad"*.
+A lo que el maestro contestó: *"al contrario. La mayoría de personas, mientras comen, están pensando en otras cosas, y mientras duermen, están soñando en otras cosas. Yo, cuando como, como; cuando duermo, duermo. Así me adiestro en la verdad"*.
 
 A menudo piensas que para vivir una vida profunda debes encontrar una misión, una creencia, o un conocimiento que no tienes. La ironía es que, mientras piensas en cómo deberías vivir, no estás viviendo. Te distraes de lo cotidiano como si no fuera importante, cuando lo es todo.
 
@@ -36,4 +36,4 @@ Cuando un pensamiento intruye en tu mente, es como lanzar una piedra a un lago: 
 
 Pensar es también una acción. Sigue el método. Decide en qué vas a pensar; pon tu atención en ello sin distraerte (utilizar un papel y boli, o una pizarra, ayuda muchísimo); cuando termines o ya no puedas mantener la concentración, recoge, disfruta y pasa a otra cosa.
 
-¿Quieres saber cómo vivir una vida más profunda y verdadera? Es simple: haz una cosa por vez y, cuando termines, pasa a otra cosa. Cuando comas, come. Cuando pienses, piensa. Cuando descanses, descansa.
+¿Quieres saber cómo vivir una vida más profunda y verdadera? Es sencillo: haz una cosa por vez y, cuando termines, pasa a otra cosa. Cuando comas, come. Cuando pienses, piensa. Cuando descanses, descansa.
