@@ -18,11 +18,11 @@ A lo que el maestro contestó: *"Al contrario. La mayoría de personas, mientras
 
 A menudo piensas que para vivir una vida profunda debes encontrar una misión, una creencia, o un conocimiento que no tienes. La ironía es que, mientras piensas en cómo deberías vivir, no estás viviendo. Te distraes de lo cotidiano como si no fuera importante, cuando lo es todo.
 
-Lo que estás haciendo ahora *es* tu vida. El resto sólo existe en tu mente.
+Lo que estás haciendo ahora *es* tu vida. El resto existe únicamente en tu mente, en tu imaginación.
 
 La receta para vivir con sabiduría es simple:
 
-1. Decide qué vas a hacer. Sólo una cosa por vez.
+1. Decide qué vas a hacer. Solo una cosa por vez.
 2. Hazlo, poniendo la mayor atención posible en tus acciones. Si te pillas distrayéndote o pensando en otras cosas, para y vuelve al presente.
 3. Cuando termines, recoge lo que hayas usado. Disfruta de lo que has hecho por un momento, y pasa a la siguiente acción.
 
@@ -30,10 +30,10 @@ Simple, pero no fácil.
 
 Este método requiere disciplina y concentración. Al principio, puede ser frustrante. Hay que tomarlo como un entrenamiento, como un proceso de aprendizaje, como algo que lleva toda una vida perfeccionar.
 
-Con la práctica, mejorarás. Sólo entonces te darás cuenta de la profundidad que existe en los pequeños actos, de todo lo que puedes aprender de tu entorno.
+Con la práctica, mejorarás. Te darás cuenta de la profundidad que existe en los pequeños actos, de todo lo que puedes aprender de tu entorno.
 
-Cuando un pensamiento intruye en tu mente, es como lanzar una piedra a un lago: las ondas que se crean en la superficie del agua no te dejan ver el fondo. Cuando tu atención está en el presente, las aguas se calman y se vuelven transparentes de nuevo. Es entonces cuando puedes ver con claridad.
+Cuando un pensamiento intruye en tu mente, es como lanzar una piedra a un lago: las ondas que se crean en la superficie del agua no te dejan ver el fondo. Cuando tu atención está en el presente, las aguas se calman y se vuelven transparentes de nuevo, y puedes ver con claridad.
 
-Pensar es también una acción. Cuando quieras pensar, sigue el método. Decide en qué vas a pensar; pon tu atención en ello sin distraerte (utilizar un papel y boli, o una pizarra, ayuda muchísimo); cuando termines o ya no puedas mantener la concentración, recoge, disfruta y pasa a otra cosa.
+Pensar es también una acción. Sigue el método. Decide en qué vas a pensar; pon tu atención en ello sin distraerte (utilizar un papel y boli, o una pizarra, ayuda muchísimo); cuando termines o ya no puedas mantener la concentración, recoge, disfruta y pasa a otra cosa.
 
-¿Quieres saber cómo vivir una vida más profunda y verdadera? Es simple: haz una cosa por vez y, cuando termines, pasa a otra cosa. Cuando comas, come. Cuando pienses, piensa. Cuando descanses, descansa. 
+¿Quieres saber cómo vivir una vida más profunda y verdadera? Es simple: haz una cosa por vez y, cuando termines, pasa a otra cosa. Cuando comas, come. Cuando pienses, piensa. Cuando descanses, descansa.
