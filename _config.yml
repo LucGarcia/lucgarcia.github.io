@@ -24,9 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Herramientas, hábitos, estrategias y principios para vivir una vida buena, y pasarlo bien en el intento
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: elsimioenelespejo
-pinterest_username: elsimioenelespejo
-twitter_username: simioenelespejo
+
 header_pages:
  - about.markdown
 # Build settings
@@ -38,6 +36,12 @@ plugins:
 lang: es
 minima:
   date_format: "%d/%m/%y"
+  social_links:
+    facebook: elsimioenelespejo
+    instagram: elsimioenelespejo
+    pinterest: elsimioenelespejo
+    twitter: simioenelespejo
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
