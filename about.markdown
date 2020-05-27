@@ -7,7 +7,6 @@ permalink: /descubre/
 ### ¿Dónde estoy?
 Este es un blog sobre naturaleza humana y filosofía práctica. En él encontrarás  herramientas, hábitos, estrategias y principios para vivir una vida buena.
 
-
 ### ¿Qué es una vida buena?
 Hay tantas definiciones como personas. Ésta es la mía.
 Una vida buena es una vida:
@@ -16,7 +15,6 @@ Una vida buena es una vida:
 * **Honesta y coherente**. Cuando lo que necesitas, sientes y haces va en una misma línea, las energías se suman y empieza la magia.
 * **Divertida**. Vamos, el tipo de vida que te hace reír a carcajadas y quieres compartir con todo el mundo. Como un meme.
 
-
 ### ¿Eso se puede hacer?¿Cómo?
 En mi experiencia, hay cosas que ayudan, como por ejemplo:
 * Aprender a separar lo esencial de lo importante (y centrarte en lo primero).
@@ -24,7 +22,6 @@ En mi experiencia, hay cosas que ayudan, como por ejemplo:
 * Aprender a desaprender.
 
 Aquí encontrarás los conocimientos y tácticas que más me han ayudado, destilados y sin edulcorar, además de ideas para poderlos aplicar a tu vida. Es como mi cajita de los tesoros, donde hay un poquito de todo: filosofía práctica, ciencia, psicología, antropología, y un poco (no mucho) de sentido común.
-
 
 
 ## Sobre el autor
