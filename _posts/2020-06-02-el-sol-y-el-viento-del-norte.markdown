@@ -3,9 +3,9 @@ layout: post
 title: El sol y el viento del norte. Cómo ganar cualquier discusión
 ---
 >Estoy cansado y frustrado de ver cómo crecen las creencias absurdas a mi alrededor.
->Lo peor es que estas ideas se extienden cada vez más, y sus defensores ni siquiera se molestan en ofrecer evidencia o argumentos para sostener sus teorías.
+>Lo peor es que estas ideas se extienden cada vez más, y sus defensores ni siquiera se molestan en ofrecer evidencias o argumentos para sostener sus teorías.
 >
->¿Cómo puedo discutir con alguien que sostiene una creencia irracional?
+>¿Cómo puedo discutir con alguien que cree en algo irracional?
 
 Este, querido simio, es un problema de perspectiva.
 
