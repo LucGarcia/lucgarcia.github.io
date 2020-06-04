@@ -35,7 +35,7 @@ plugins:
   - jekyll-remote-theme
 lang: es
 disqus:
-  shortname: luc_garcia
+  shortname: www-elsimioenelespejo-blog
 minima:
   date_format: "%d/%m/%y"
   social_links:
