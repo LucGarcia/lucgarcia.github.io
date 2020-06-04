@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: La paradoja del arquero. Cómo alcanzar tus objetivos y disfrutar de ello
 ---
 
