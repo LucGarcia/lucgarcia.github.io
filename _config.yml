@@ -34,8 +34,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 lang: es
-  disqus:
-    shortname: luc_garcia
+disqus:
+  shortname: luc_garcia
 minima:
   date_format: "%d/%m/%y"
   social_links:
