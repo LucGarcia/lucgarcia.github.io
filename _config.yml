@@ -29,6 +29,7 @@ url: "https://www.elsimioenelespejo.blog" # the base hostname & protocol for you
 
 header_pages:
  - about.markdown
+ - posts.markdown
 # Build settings
 remote_theme: jekyll/minima
 google_analytics: UA-162086880-1
